@@ -25,15 +25,16 @@
             </div>
 
             <div class="form-inner">
-                <form action="#" class="login">
+                <form action="#" class="login" id="loginForm">
                     <div class="field">
-                        <input type="text" placeholder="Email Address" required>
+                        <input type="email" id="email" placeholder="Email Address" required>
                     </div>
 
                     <div class="field">
-                        <input type="password" placeholder="Password" required>
+                        <input type="password" class="password" id="password" placeholder="Password" required>
                     </div>
-                    <div class="pass-link"><a href="#" id="forgot_password"></a></div>
+                    <input type="checkbox" class="checkbox" id="checkbox" onclick="myFunction()">
+                    <span class="show-password">Show Password</span>
 
                     <div class="field btn">
                         <div class="btn-layer"></div>
@@ -44,7 +45,7 @@
 
                 <form action="#" class="signup">
                     <div class="field">
-                        <input type="text" placeholder="Email Address" required>
+                        <input type="email" placeholder="Email Address" required>
                     </div>
 
                     <div class="field">

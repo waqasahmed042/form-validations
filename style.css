@@ -157,22 +157,27 @@
      color: #1a75ff;
  }
 
- .form-inner form .pass-link {
-     margin-top: 5px;
- }
-
  .form-inner form .signup-link {
      text-align: center;
      margin-top: 30px;
  }
 
- .form-inner form .pass-link a,
+ .form-inner form .checkbox {
+     margin-top: 12px;
+ }
+
+ .form-inner form .show-password {
+     font-size: 12px;
+     padding-top: -2px;
+ }
+
+ .form-inner form a,
  .form-inner form .signup-link a {
      color: #1a75ff;
      text-decoration: none;
  }
 
- .form-inner form .pass-link a:hover,
+ .form-inner form a:hover,
  .form-inner form .signup-link a:hover {
      text-decoration: underline;
  }
