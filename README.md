@@ -1,4 +1,4 @@
-# Food Restaurant Website
+# Form Validations
 A responsive and visually appealing food restaurant website showcasing various specialties, popular dishes, a gallery, customer reviews, and an order form.
 
 ## Table of Contents
