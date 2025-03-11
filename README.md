@@ -2,14 +2,14 @@
 A responsive and visually appealing food restaurant website showcasing various specialties, popular dishes, a gallery, customer reviews, and an order form.
 
 ## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Live Demo 🌐](#demo)
+- [Key Features ✨](#features)
+- [Tech Stack 🛠️](#technologies-used)
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Installation & Setup 🚀](#getting-started)
+- [How to Contribute 🤝](#contributing)
+- [License Information 📜](#license)
+- [Get in Touch 📩](#contact)
 
 ## Demo
 Check out the live demo of the website: [Form Validations](https://waqasahmed042.github.io/form-validations/)
